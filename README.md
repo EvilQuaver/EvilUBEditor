@@ -9,7 +9,7 @@ Yeah it _can_ make charts but it's more useful as a tool to edit existing charts
 - Edited charts will go to "ChartOutput" (so it shouldn't overwrite the original chart file)
 - 
 # Evil Disclaimer
-Neither I nor anything on this repository is affiliated with D-Cell Games. I'm just some girl who makes python scripts for fun sometimes
+Neither I nor anything on this repository is affiliated with D-Cell Games. I'm just some girl who makes python scripts for fun sometimes  
 UNBEATABLE: https://www.unbeatablegame.com/
 
 # Evil... uhh, other stuff
