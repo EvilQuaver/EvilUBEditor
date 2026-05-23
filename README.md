@@ -10,6 +10,12 @@ Yeah it _can_ make charts but it's more useful as a tool to edit existing charts
 - 
 # Evil Disclaimer
 Neither I nor anything on this repository is affiliated with D-Cell Games. I'm just some girl who makes python scripts for fun sometimes
+UNBEATABLE: https://www.unbeatablegame.com/
+
+# Evil thank you
+I used Nuitka to make these files executeable somehow I had never heard of them before this week holy shit it's so useful if you use python please check them out:
+https://github.com/Nuitka/Nuitka
+
 
 # Evil... uhh, other stuff
 If you encounter any bugs please screenshot or copy the stuff in the console, usually it's some combination of settings I just haven't tried yet that breaks everything
