@@ -3,6 +3,9 @@ Idk I made scripts to edit UNBEATABLE charts because why not and here they are y
 
 Yeah it _can_ make charts but it's more useful as a tool to edit existing charts. Unfortunately I don't have a better word than "editor" to call this which makes it confusing to differentiate from programs that are primarily for chart creation. Hence it's an **evil** editor.
 
+Also sorry if you download source zip you WILL get my chart files I use for testing  
+(I keep forgetting to remove them)
+
 # Evil Tutorial
 - Put the charts you want to edit inside the "Charts" folder (must be a subfolder of "Charts" with the chart txt files inside, don't just put the txt files alone in Charts)
 - Run the exe
